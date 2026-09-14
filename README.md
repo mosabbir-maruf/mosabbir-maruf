@@ -24,19 +24,19 @@ has a message for you...
   <h3><b>Let's talk!! </b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/iammrf/" target="_blank">
+<a href="https://www.linkedin.com/in/mosabbir-maruf/" target="_blank">
   <img align="center" alt="Mosabbir Maruf | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
 <a href="https://twitter.com/IAmMRF07" target="_blank">
   <img align="center" alt="Mosabbir Maruf | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/iammrf.official/" target="_blank">
+<a href="https://www.instagram.com/mosabbir_maruf/" target="_blank">
   <img align="center" alt="Mosabbir Maruf | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:me.maruf07xd@gmail.com" >
+<a href="mailto:hellomosabbir@outlook.com" >
   <img align="center" alt="Mosabbir Maruf | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/iammrf">
+<a href="https://www.facebook.com/mosabbir.maruf">
     <img align="center" alt="Mosabbir Maruf | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
